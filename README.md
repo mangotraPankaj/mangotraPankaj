@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @mangotraPankaj
-- 👀 I’m interested in learning about integrating technology with humans.
-- 🌱 I’m currently learning about Flutter and TDD.
-- 📫 You can reach me on pankaj.mangotra@hotmail.com
+ <a href="https://app.daily.dev/Mangotra_pankaj"><img src="https://api.daily.dev/devcards/a4ca2f4936e045c580c1c34010125ee5.png?r=5w0" width="400" alt="Pankaj Mangotra's Dev Card"/></a>
+
 
 <!---
 mangotraPankaj/mangotraPankaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
