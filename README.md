@@ -3,8 +3,6 @@
  
 <a href="https://app.daily.dev/Mangotra_pankaj"><img src="https://github.com/mangotraPankaj/mangotraPankaj/blob/main/devcard.svg" width="400" alt="Pankaj Mangotra's Dev Card"/></a>
 
-
-
 <!---
 mangotraPankaj/mangotraPankaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
