@@ -11,7 +11,8 @@
 # 💻Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=mangotraPankaj&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mangotraPankaj&theme=dracula&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=mangotraPankaj&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mangotraPankaj&theme=flag-india&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mangotraPankaj&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
