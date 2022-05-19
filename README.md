@@ -10,6 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/pankaj_mangotra" target="blank"><img src="https://img.shields.io/twitter/follow/pankaj_mangotra?logo=twitter&style=for-the-badge" alt="pankaj_mangotra" /></a> </p>
 <p>&nbsp;<img src="https://komarev.com/ghpvc/?username=mangotrapankaj&label=Profile%20views&color=0e75b6&style=flat" alt="mangotrapankaj" /> </p>
+<p><img src="https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/849907"/></p>
 
 - 🌱 I’m currently learning **Flutter**
 
@@ -32,6 +33,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mangotrapankaj&" alt="mangotrapankaj" /></p>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dead_soldier&cover_image=false&theme=default&bar_color_cover=true&bar_color=53b14f)](https://spotify-github-profile.vercel.app/api/view?uid=dead_soldier&redirect=true)
 
 
 ### ✍️Random Dev Quote
