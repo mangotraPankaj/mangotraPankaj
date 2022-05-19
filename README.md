@@ -33,7 +33,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mangotrapankaj&" alt="mangotrapankaj" /></p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dead_soldier&cover_image=false&theme=default&bar_color_cover=true&bar_color=53b14f)](https://spotify-github-profile.vercel.app/api/view?uid=dead_soldier&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dead_soldier&cover_image=false&theme=default&bar_color_cover=true&bar_color=11ac0c)](https://spotify-github-profile.vercel.app/api/view?uid=dead_soldier&redirect=true)
 
 
 ### ✍️Random Dev Quote
